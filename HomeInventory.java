@@ -1,4 +1,3 @@
-package HomeInventory;
 import javax.swing.*;
 import javax.swing.filechooser.*;
 import java.awt.*;
